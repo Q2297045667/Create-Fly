@@ -34,7 +34,7 @@
   "catnip.ui.server_config_unlocked_tooltip": "你有足够的权限编辑服务器配置；保存后，你所做的更改将与服务器同步",
 
   "catnip.ui.value_entry.range": "范围",
-  "catnip.ui.value_entry.relog_required": "更改此值需要_重新登录_才能完全生效",
+  "catnip.ui.value_entry.relog_required": "更改此值需要_重新进入世界_才能完全生效",
   "catnip.ui.value_entry.restart_required": "更改此值需要_重启游戏_才能完全生效",
 
   "catnip.ui.go_back_button": "返回",
@@ -52,7 +52,7 @@
   "catnip.ui.changed_values_plural": "值",
   "catnip.ui.value_changes_singular": "更改",
   "catnip.ui.value_changes_plural": "更改",
-  "catnip.ui.relog_required_message": "至少有一项更改需要重新登录才能完全生效",
+  "catnip.ui.relog_required_message": "至少有一项更改需要重新进入世界才能完全生效",
   "catnip.ui.restart_required_message": "至少有一项更改需要重启游戏才能完全生效",
   "catnip.ui.save_label": "保存",
   "catnip.ui.confirm_label": "确认",
